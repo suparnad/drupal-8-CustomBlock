@@ -1,0 +1,9 @@
+name: Geo IP Block Module
+description: Creates a custom block showing different content for different audience depend on their location.
+package: Custom
+
+type: module
+core: 8.x
+dependencies:
+- node
+- block
