@@ -1,0 +1,14 @@
+{
+  "name": "drupal/drupal-8-CustomBlock",
+  "type": "drupal-module",
+  "description": "makes image alt text the same as the event title",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/drupal-8-CustomBlock",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/drupal-8-CustomBlock",
+    "source": "http://cgit.drupalcode.org/drupal-8-CustomBlock"
+  },
+  "require": { }
+}
